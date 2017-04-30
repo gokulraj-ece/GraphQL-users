@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "26",
+      "firstName": "GokulRaj",
+      "age": 25,
+      "companyId": "2"
+    },
+    {
+      "id": "40",
+      "firstName": "Raj",
+      "age": 20,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Kumar",
+      "age": 55,
+      "id": "BySo9_ZJ-"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "MSFT",
+      "description": "student"
+    },
+    {
+      "id": "2",
+      "name": "FB",
+      "description": "student"
+    }
+  ]
+}
